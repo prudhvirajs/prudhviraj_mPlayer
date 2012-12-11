@@ -1,0 +1,10 @@
+{
+  "name": "Muni player",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "The Browser music player.",
+  "browser_action": {
+    "default_icon": "16.png",
+  "default_popup":"popup.html"
+  }
+}
